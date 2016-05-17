@@ -1,0 +1,15 @@
+{
+  "name": "iisnode-require",
+  "version": "1.0.0",
+  "description": "Resolves the issues when trying to run NodeBB within IIS and Azure hosted Node applications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "iisnode",
+    "azure"
+  ],
+  "author": "Dominic Lennon",
+  "license": "MIT"
+}
